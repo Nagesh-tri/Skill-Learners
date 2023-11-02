@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+    font-family: Roboto,system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h3{
+    font-size: 14px;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+.navbar{    
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: aqua;
+}
+
+.logo>img{
+    height: 40px;
+    max-height: 106px;
+    
+}
+.nav-items{
+    
+}
+.nav-items>ul{
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 97px;
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    
+    
+}
+.main
+{
+    background-color:white;
+    width: 100%;
+    height:auto;
+
+}
+.upper
+{
+     width: 100%;
+     height:150px;
+     background-color: black;
+
+     
+}
+.lower
+{
+    width: 100%;
+    height:100%;
+    
+    margin-top: 50px;
+    padding-top: 100px;
+    padding-left: 120px;
+
+}
+#para
+{
+     color: white;
+     font-family: Calibri;
+     font-size: 50px;
+     margin-left: 100px;
+     padding-top: 20px;
+     
+}
+.internal
+{   background-color:white;
+    width: 100%;
+    height:900px ;
+    
+}
+.upper p
+{color: white;
+margin-left: 110px;
+margin-top: 15px;
+font-family: Calibri;
+}
+.student
+{
+    margin-left:  85px;
+}
+#yname
+{
+width:450px;
+height: 34px;
+}
+#yemail
+{
+    width:450px;
+    height: 34px;
+}
+#con
+{
+     width:450px;
+height: 34px;
+}
+#ym
+{
+    width:450px;
+    height: 200px;
+}
+
+
+#sub
+{
+width:450px;
+height: 34px;
+}
+#s1
+{
+    width:150px;
+    height: 36px;
+}
