@@ -42,3 +42,7 @@ copying (Clone) repo from github to your local machine
 
 Pushing changes to github : push 
 -[] git push REMOTE-NAME BRANCH-NAME   -->git push origin master
+
+
+Pull changes from github to local
+-[] git pull origin master
