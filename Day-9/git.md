@@ -44,5 +44,9 @@ Pushing changes to github : push
 -[] git push REMOTE-NAME BRANCH-NAME   -->git push origin master
 
 
-Pull changes from github to local
--[] git pull origin master
+Branching:
+-[] git branch <branch-name>    creating new branch
+-[] git branch                  see all branches availble to our project
+    <!-- it will also tell in which branch we are at very moment -->
+-[] git checkout <branch-name>      to change branch
+
